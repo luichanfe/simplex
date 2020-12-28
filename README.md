@@ -14,7 +14,7 @@ composer install
 
 PHP 7.1 o mayor.
 
-PHPunit 9.0 o mayor
+PHPunit 8.0
 
 ### Tests
 
