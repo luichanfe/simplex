@@ -2,7 +2,7 @@
 
 namespace Simplex;
 
-use Simplex\ITipocambioProvider;
+use Simplex\iTipocambioProvider;
 
 /**
  * Clase base para conectarse con una API
